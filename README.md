@@ -8,17 +8,17 @@ What I took away from this project was how to match user input with stored data 
 
 ## Home screen:
 
-![Main screen](https://ibb.co/kjM2ZH 'Main screen')
+![Main screen](https://i.imgur.com/BAB7seA.png?1 "Main screen")
 
 ## Searching with uppercase:
 
-![Uppercase](https://ibb.co/bMHn1x 'Uppercase')
+![Uppercase](https://i.imgur.com/nOEAGDh.png?1 "Uppercase")
 
 ## Searching with lowercase:
 
-![Lowercase](https://ibb.co/gs7n1x 'Lowercase')
+![Lowercase](https://i.imgur.com/kHmTe9z.png?2 "Lowercase")
 
-#### Credits:
+### Credits
 
 This project was created with help from Wes Bos, whose website can be found [here](https://wesbos.com/).
 
