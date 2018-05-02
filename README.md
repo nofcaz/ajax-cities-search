@@ -1,4 +1,4 @@
-# Searching Locations With AJAX
+# Searching Locations with AJAX
 
 This simple application allows users to input the name of a city or state and receive a list of all of the cities/states (in the US) that match that search value. At the same time, a count of the total population of each given area is provided. As a user searches for locations, input is not restricted to proper capitalization, allowing for both uppercase and lowercase typing preferences.
 
